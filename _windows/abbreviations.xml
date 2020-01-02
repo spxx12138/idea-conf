@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="RevealIn">
+        <abbreviation name="在文件夹中打开" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
